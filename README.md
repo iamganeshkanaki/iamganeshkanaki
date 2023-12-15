@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @iamganeshkanaki
+- 👋 This is Just Introduction
+- Hi, I’m @iamganeshkanaki
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning Mern Stack
 - 📫 How to reach me ganeshkanaki200@gmail.com 
